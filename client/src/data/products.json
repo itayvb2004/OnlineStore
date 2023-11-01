@@ -1,0 +1,92 @@
+[
+    {
+        "id": "iphone14",
+        "name": "iPhone 14",
+        "category": "smartphone",
+        "producer": "Apple",
+        "description": "A flagship smartphone by Apple.",
+        "price": 999,
+        "inventory": 10,
+        "imageUrl": "/images/iPhone14.jpg"
+    },
+    {
+        "id": "iphone14pro",
+        "name": "iPhone 14 pro",
+        "category": "smartphone",
+        "producer": "Apple",
+        "description": "A flagship smartphone by Apple.",
+        "price": 999,
+        "inventory": 12,
+        "imageUrl": "iPhone.jpg"
+    },
+    {
+        "id": "iphone14promax",
+        "name": "iPhone 14 Pro Max",
+        "category": "smartphone",
+        "producer": "Apple",
+        "description": "A flagship smartphone by Apple.",
+        "price": 999,
+        "inventory": 8,
+        "imageUrl": "iPhone.jpg"
+    },
+    {
+        "id": "samsung-galaxy-s23",
+        "name": "Samsung Galaxy s23",
+        "category": "smartphone",
+        "producer": "Samsung",
+        "description": "A powerful Android smartphone by Samsung.",
+        "price": 799,
+        "inventory": 15,
+        "imageUrl": "/images/s23.jpg"
+    },
+    {
+        "id": "samsung-galaxy-s23plus",
+        "name": "Samsung Galaxy s23 plus",
+        "category": "smartphone",
+        "producer": "Samsung",
+        "description": "A powerful Android smartphone by Samsung.",
+        "price": 799,
+        "inventory": 15,
+        "imageUrl": "s23.jpg"
+    },
+    {
+        "id": "macbook-air-13",
+        "name": "macbook air 13",
+        "category": "laptop",
+        "producer": "Apple",
+        "description": "",
+        "price": 999,
+        "inventory": 10,
+        "imageUrl": ""
+    },
+    {
+        "id": "macbook-air-15",
+        "name": "macbook air 15",
+        "category": "laptop",
+        "producer": "Apple",
+        "description": "",
+        "price": 1299,
+        "inventory": 10,
+        "imageUrl": ""
+    },
+    {
+        "id": "macbook-pro-14",
+        "name": "macbook pro 14",
+        "category": "laptop",
+        "producer": "Apple",
+        "description": "",
+        "price": 1999,
+        "inventory": 12,
+        "imageUrl": ""
+    },
+    {
+        "id": "macbook-pro-16",
+        "name": "macbook pro 16",
+        "category": "laptop",
+        "producer": "Apple",
+        "description": "",
+        "price": 3499,
+        "inventory": 6,
+        "imageUrl": ""
+    }
+]
